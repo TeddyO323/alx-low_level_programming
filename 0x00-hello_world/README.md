@@ -1,16 +1,9 @@
 
-        <h2>Concepts</h2>
+ # Concepts
 
-  <div class="panel panel-default">
-    <div class="panel-body">
-      <p>
+ 
         <em>For this project, students are expected to look at this concept:</em>
-      </p>
-
-     
-          <li>
-            <a href="https://alx-intranet.hbtn.io/concepts/26">C programming</a>
-          </li>
+- [C programming](https://alx-intranet.hbtn.io/concepts/26)       
  
 [![WATCH](https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png)](https://www.youtube.com/watch?v=bvWRMAU6V-c&feature=emb_rel_pause)
     
