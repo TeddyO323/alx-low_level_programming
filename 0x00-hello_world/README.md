@@ -5,7 +5,7 @@
  For this project, students are expected to look at this concept:
 - [C programming](https://alx-intranet.hbtn.io/concepts/26)       
  
-[![WATCH](https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png)](https://www.youtube.com/watch?v=bvWRMAU6V-c&feature=emb_rel_pause)
+[![WATCH](https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png)](https://www.youtube.com/watch?v=co0b0xLEuRM)
     
 <h2>Resources</h2>
 
