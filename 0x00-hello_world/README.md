@@ -12,11 +12,8 @@
             <a href="https://alx-intranet.hbtn.io/concepts/26">C programming</a>
           </li>
  
-
-      <div class="well clean" id="project-description">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/co0b0xLEuRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-     
-
+[![WATCH](https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png)](https://www.youtube.com/watch?v=bvWRMAU6V-c&feature=emb_rel_pause)
+    
 <h2>Resources</h2>
 
 <p><strong>Read or watch</strong>:</p>
