@@ -126,22 +126,27 @@ followed by a new line
             <li>File: <code>2-print_alphabet.c</code></li>
         </ul>
    
-3. alphABET
-mandatory
-Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+  # 3. alphABET
+    </h3>
 
-You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
-All your code should be in the main function
-You can only use putchar three times in your code
-julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-print_alphabets.c -o 3-print_alphabets
-julien@ubuntu:~/0x01$ ./3-print_alphabets | cat -e
-abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ$
-julien@ubuntu:~/0x01$ 
-Repo:
+ 
+    <!-- Task Body -->
+    <p>Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.</p>
 
-GitHub repository: alx-low_level_programming
-Directory: 0x01-variables_if_else_while
-File: 3-print_alphabets.c
+<ul>
+<li>You can only use the <code>putchar</code> function (every other function (<code>printf</code>, <code>puts</code>, etc&hellip;) is forbidden)</li>
+<li>All your code should be in the <code>main</code> function</li>
+<li>You can only use <code>putchar</code> three times in your code</li>
+</ul>
+
+
+        <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x01-variables_if_else_while</code></li>
+            <li>File: <code>3-print_alphabets.c</code></li>
+        </ul>
+      </div>
    
 4. When I was having that alphabet soup, I never thought that it would pay off
 mandatory
