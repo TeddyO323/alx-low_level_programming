@@ -175,7 +175,7 @@ This program will assign a random number to the variable <code>n</code> each tim
 <li>You can only use <code>putchar</code> twice in your code</li>
 </ul>
 
-        <p><strong>Repo:</strong></p>
+        <strong>Repo:</strong>
         <ul>
           <li>GitHub repository: <code>alx-low_level_programming</code></li>
             <li>Directory: <code>0x01-variables_if_else_while</code></li>
