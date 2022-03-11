@@ -166,7 +166,7 @@ This program will assign a random number to the variable <code>n</code> each tim
    
 #   4. When I was having that alphabet soup, I never thought that it would pay off
    
-    <p>Write a program that prints the alphabet in lowercase, followed by a new line.</p>
+   Write a program that prints the alphabet in lowercase, followed by a new line.
 
 <ul>
 <li>Print all the letters except <code>q</code> and <code>e</code></li>
