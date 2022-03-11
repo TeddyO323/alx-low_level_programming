@@ -164,9 +164,9 @@ This program will assign a random number to the variable <code>n</code> each tim
         </ul>
       
    
-# 4. When I was having that alphabet soup, I never thought that it would pay off
-  
- Write a program that prints the alphabet in lowercase, followed by a new line.
+#   4. When I was having that alphabet soup, I never thought that it would pay off
+   
+    <p>Write a program that prints the alphabet in lowercase, followed by a new line.</p>
 
 <ul>
 <li>Print all the letters except <code>q</code> and <code>e</code></li>
@@ -175,7 +175,9 @@ This program will assign a random number to the variable <code>n</code> each tim
 <li>You can only use <code>putchar</code> twice in your code</li>
 </ul>
 
-       **Repo:**
+
+
+        <p><strong>Repo:</strong></p>
         <ul>
           <li>GitHub repository: <code>alx-low_level_programming</code></li>
             <li>Directory: <code>0x01-variables_if_else_while</code></li>
