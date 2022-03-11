@@ -127,10 +127,7 @@ followed by a new line
         </ul>
    
   # 3. alphABET
-    </h3>
-
  
-    <!-- Task Body -->
     <p>Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.</p>
 
 <ul>
@@ -140,8 +137,7 @@ followed by a new line
 </ul>
 
 
-        <p><strong>Repo:</strong></p>
-        <ul>
+       <ul>
           <li>GitHub repository: <code>alx-low_level_programming</code></li>
             <li>Directory: <code>0x01-variables_if_else_while</code></li>
             <li>File: <code>3-print_alphabets.c</code></li>
