@@ -64,24 +64,35 @@
 ---
 # Tasks
 # 0. Positive anything is better than negative nothing
+   
+ This program will assign a random number to the variable <code>n</code> each time it is executed. Complete the source code in order to print whether the number stored in the variable <code>n</code> is positive or negative.
 
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
+<ul>
+<li>You can find the source code <a href="https://github.com/holbertonschool/0x01.c/blob/master/0-positive_or_negative_c" title="here" target="_blank">here</a></li>
+<li>The variable <code>n</code> will store a different value every time you will run this program</li>
+<li>You don&rsquo;t have to understand what <code>rand</code>, <code>srand</code>, <code>RAND_MAX</code> do. Please do not touch this code</li>
+<li>The output of the program should be:
 
-- You can find the source code [here](https://github.com/holbertonschool/0x01.c/blob/master/0-positive_or_negative_c)
-- The variable n will store a different value every time you will run this program
-- You don’t have to understand what rand, srand, RAND_MAX do. Please do not touch this code
-- The output of the program should be:
-The number, followed by
-- if the number is greater than 0: is positive
-- if the number is 0: is zero
-- if the number is less than 0: is negative
-followed by a new line
+<ul>
+<li>The number, followed by
 
-**Repo:**
+<ul>
+<li>if the number is greater than 0: <code>is positive</code></li>
+<li>if the number is 0: <code>is zero</code></li>
+<li>if the number is less than 0: <code>is negative</code></li>
+</ul></li>
+<li>followed by a new line</li>
+</ul></li>
+</ul>
 
-- GitHub repository: alx-low_level_programming
-- Directory: 0x01-variables_if_else_while
-- File: 0-positive_or_negative.c
+
+        <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x01-variables_if_else_while</code></li>
+            <li>File: <code>0-positive_or_negative.c</code></li>
+        </ul>
+      </div>
    
 # 1. The last digit
 
