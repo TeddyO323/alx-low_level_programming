@@ -3,16 +3,16 @@
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="/rltoken/i2UQ_KQ2DcUL0ZnvhiTBIw" title="Everything you need to know to start with C.pdf" target="_blank">Everything you need to know to start with C.pdf</a> (<em>You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if&hellip;else”, “while loops”.</em>)</li>
-<li><a href="/rltoken/58ThnAAxwJv5s_ceKMMPhw" title="Keywords and identifiers" target="_blank">Keywords and identifiers</a> </li>
-<li><a href="/rltoken/2sXkmDiD7BF7pNIOxMQWFA" title="integers" target="_blank">integers</a> </li>
-<li><a href="/rltoken/S-b9MN2iELhSEwCI093Vzw" title="Arithmetic Operators in C" target="_blank">Arithmetic Operators in C</a> </li>
-<li><a href="/rltoken/usvxrTB3ko5kGTq48p5fSA" title="If statements in C" target="_blank">If statements in C</a> </li>
-<li><a href="/rltoken/CU6mSX1qdZKOhDEgmToUGA" title="if...else statement" target="_blank">if&hellip;else statement</a> </li>
-<li><a href="/rltoken/O1N-qacaTC-BHXm3Dp3eUA" title="Relational operators" target="_blank">Relational operators</a> </li>
-<li><a href="/rltoken/ndmvlsrk_wLgwBs-Yma9ag" title="Logical operators" target="_blank">Logical operators</a> </li>
-<li><a href="/rltoken/mwx2_bj3gIFEgCqdwdTp4w" title="while loop in C" target="_blank">while loop in C</a> </li>
-<li><a href="/rltoken/MW4Ob-6JLWt7Zn6vZ0EsBw" title="While loop" target="_blank">While loop</a> </li>
+<li><a href="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/42507f7938ddf9b8963bc903bac7d75f88ca8881.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220311%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220311T205001Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7480e5b9179f74f0a43809cce289d2804300486e5f4f22ae1552f6e08f042b2a" title="Everything you need to know to start with C.pdf" target="_blank">Everything you need to know to start with C.pdf</a> (<em>You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if&hellip;else”, “while loops”.</em>)</li>
+<li><a href="https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html" title="Keywords and identifiers" target="_blank">Keywords and identifiers</a> </li>
+<li><a href="https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html" title="integers" target="_blank">integers</a> </li>
+<li><a href="https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm" title="Arithmetic Operators in C" target="_blank">Arithmetic Operators in C</a> </li>
+<li><a href="https://www.cprogramming.com/tutorial/c/lesson2.html" title="If statements in C" target="_blank">If statements in C</a> </li>
+<li><a href="https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm" title="if...else statement" target="_blank">if&hellip;else statement</a> </li>
+<li><a href="https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm" title="Relational operators" target="_blank">Relational operators</a> </li>
+<li><a href="https://fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/" title="Logical operators" target="_blank">Logical operators</a> </li>
+<li><a href="https://www.tutorialspoint.com/cprogramming/c_while_loop.htm" title="while loop in C" target="_blank">while loop in C</a> </li>
+<li><a href="https://www.youtube.com/watch?v=Ju1LYO9pkaI" title="While loop" target="_blank">While loop</a> </li>
 </ul>
 
 <p><strong>man or help</strong>:</p>
@@ -23,7 +23,7 @@
 
 <h2>Learning Objectives</h2>
 
-<p>At the end of this project, you are expected to be able to <a href="/rltoken/qBrRkO5QsdzGun5FkaMooQ" title="explain to anyone" target="_blank">explain to anyone</a>, <strong>without the help of Google</strong>:</p>
+<p>At the end of this project, you are expected to be able to <a href="https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg" title="explain to anyone" target="_blank">explain to anyone</a>, <strong>without the help of Google</strong>:</p>
 
 <h3>General</h3>
 
