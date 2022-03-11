@@ -85,14 +85,13 @@
 </ul></li>
 </ul>
 
-
-        <p><strong>Repo:</strong></p>
+<p><strong>Repo:</strong></p>
         <ul>
           <li>GitHub repository: <code>alx-low_level_programming</code></li>
             <li>Directory: <code>0x01-variables_if_else_while</code></li>
             <li>File: <code>0-positive_or_negative.c</code></li>
         </ul>
-      </div>
+      
    
 # 1. The last digit
 
