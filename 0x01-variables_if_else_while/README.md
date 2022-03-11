@@ -177,12 +177,7 @@ This program will assign a random number to the variable <code>n</code> each tim
 
 
 
-        <p><strong>Repo:</strong></p>
-        <ul>
-          <li>GitHub repository: <code>alx-low_level_programming</code></li>
-            <li>Directory: <code>0x01-variables_if_else_while</code></li>
-            <li>File: <code>4-print_alphabt.c</code></li>
-        </ul>
+       
 
 # 5. Numbers
   
