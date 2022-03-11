@@ -111,8 +111,8 @@ followed by a new line
   
 
 
-    <!-- Task Body -->
-    <p>Write a program that prints the alphabet in lowercase, followed by a new line.</p>
+  
+ Write a program that prints the alphabet in lowercase, followed by a new line.
 
 <ul>
 <li>You can only use the <code>putchar</code> function (every other function (<code>printf</code>, <code>puts</code>, etc&hellip;) is forbidden)</li>
@@ -128,7 +128,7 @@ followed by a new line
    
   # 3. alphABET
  
-    <p>Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.</p>
+   Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 
 <ul>
 <li>You can only use the <code>putchar</code> function (every other function (<code>printf</code>, <code>puts</code>, etc&hellip;) is forbidden)</li>
@@ -136,13 +136,13 @@ followed by a new line
 <li>You can only use <code>putchar</code> three times in your code</li>
 </ul>
 
-
+ <p><strong>Repo:</strong></p>
        <ul>
           <li>GitHub repository: <code>alx-low_level_programming</code></li>
             <li>Directory: <code>0x01-variables_if_else_while</code></li>
             <li>File: <code>3-print_alphabets.c</code></li>
         </ul>
-      </div>
+      
    
 4. When I was having that alphabet soup, I never thought that it would pay off
 mandatory
