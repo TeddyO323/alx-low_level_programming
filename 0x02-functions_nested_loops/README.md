@@ -206,7 +206,7 @@
 
 <ul>
 <li>Prototype: <code>void jack_bauer(void);</code></li>
-<li>You can listen to <a href="/rltoken/aNwRcWg7MPM1J2lYuuuBjA" title="this soundtrack" target="_blank">this soundtrack</a> while coding :)</li>
+<li>You can listen to <a href="https://www.youtube.com/watch?v=btAfXqgMkPs" title="this soundtrack" target="_blank">this soundtrack</a> while coding :)</li>
 </ul>
 
 <p><strong>Repo:</strong></p>
