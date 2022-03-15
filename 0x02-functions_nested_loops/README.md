@@ -167,7 +167,7 @@
             <li>File: <code>5-sign.c</code></li>
         </ul>
 
- 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
+# 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
    
  <p>Write a function that computes the absolute value of an integer.</p>
 
@@ -184,7 +184,7 @@
             <li>File: <code>6-abs.c</code></li>
         </ul>
 
-7. There are only 3 colors, 10 digits, and 7 notes; it&#39;s what we do with them that&#39;s important
+# 7. There are only 3 colors, 10 digits, and 7 notes; it&#39;s what we do with them that&#39;s important
     
 <p>Write a function that prints the last digit of a number.</p>
 
