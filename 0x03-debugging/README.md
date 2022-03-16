@@ -9,7 +9,7 @@
 
 <p>Debugging is the process of finding and fixing errors in software that prevents it from running correctly. As you become a more advanced programmer and an industry engineer, you will learn how to use debugging tools such as <code>gdb</code> or built-in tools that IDEs have. However, it&rsquo;s important to understand the concepts and processes of debugging manually.</p>
 
-<p><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/5/af682f2cbb6d73fd4e42.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220316T113014Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0435f65b2b472c72227a096a69f0b61594c99784bbd3fee6e54d23b9e4cd5891" alt="" style="" /></p>
+ <p><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/5/af682f2cbb6d73fd4e42.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220316T113014Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0435f65b2b472c72227a096a69f0b61594c99784bbd3fee6e54d23b9e4cd5891" alt="" style="" /></p>
 
 <h2>Learning Objectives</h2>
 
