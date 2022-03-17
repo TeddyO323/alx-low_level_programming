@@ -17,4 +17,4 @@
 <div class="field-content">&nbsp;</div>
 </div>
 
-{% include button.html url="http://www.google.com" %}
+In his beard lived three <span style="color:red">cardinals</span>.
