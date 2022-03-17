@@ -16,3 +16,5 @@
 <div class="views-field views-field-field-explanation">
 <div class="field-content">&nbsp;</div>
 </div>
+
+<button name="button" onclick="http://www.google.com">Click me</button>
