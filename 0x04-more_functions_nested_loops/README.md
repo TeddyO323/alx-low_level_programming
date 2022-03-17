@@ -51,3 +51,595 @@
 <p>You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.</p>
 
 </div>
+
+---
+# TASKS
+
+# 0. isupper
+    
+<p>Write a function that checks for uppercase character.</p>
+
+<ul>
+<li>Prototype: <code>int _isupper(int c);</code></li>
+<li>Returns <code>1</code> if <code>c</code> is uppercase</li>
+<li>Returns <code>0</code> otherwise</li>
+</ul>
+
+<p>FYI: The standard library provides a similar function: <code>isupper</code>. Run <code>man isupper</code> to learn more.</p>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 0-main.c
+#include &quot;main.h&quot;
+#include &lt;stdio.h&gt;
+
+/**
+ * main - check the code.
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    char c;
+
+    c = &#39;A&#39;;
+    printf(&quot;%c: %d\n&quot;, c, _isupper(c));
+    c = &#39;a&#39;;
+    printf(&quot;%c: %d\n&quot;, c, _isupper(c));
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-isupper.c -o 0-isuper
+julien@ubuntu:~/0x04$ ./0-isuper 
+A: 1
+a: 0
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  </div>
+
+<p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>0-isupper.c</code></li>
+        </ul>
+
+# 1. isdigit
+ 
+<p>Write a function that checks for a digit (<code>0</code> through <code>9</code>).</p>
+
+<ul>
+<li>Prototype: <code>int _isdigit(int c);</code></li>
+<li>Returns <code>1</code> if <code>c</code> is a digit</li>
+<li>Returns <code>0</code> otherwise</li>
+</ul>
+
+<p>FYI: The standard library provides a similar function: isdigit. Run man isdigit to learn more.</p>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 1-main.c 
+#include &quot;main.h&quot;
+#include &lt;stdio.h&gt;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    char c;
+
+    c = &#39;0&#39;;
+    printf(&quot;%c: %d\n&quot;, c, _isdigit(c));
+    c = &#39;a&#39;;
+    printf(&quot;%c: %d\n&quot;, c, _isdigit(c));
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-isdigit.c -o 1-isdigit
+julien@ubuntu:~/0x04$ ./1-isdigit 
+0: 1
+a: 0
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  </div>
+
+ 
+<p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>1-isdigit.c</code></li>
+        </ul>
+      </div>
+
+#  2. Collaboration is multiplication
+   
+<p>Write a function that multiplies two integers.</p>
+
+<ul>
+<li>Prototype: <code>int mul(int a, int b);</code></li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 2-main.c
+#include &quot;main.h&quot;
+#include &lt;stdio.h&gt;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    printf(&quot;%d\n&quot;, mul(98, 1024));
+    printf(&quot;%d\n&quot;, mul(-402, 4096));
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-mul.c -o 2-mul
+julien@ubuntu:~/0x04$ ./2-mul 
+100352
+-1646592
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+ 
+<p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>2-mul.c</code></li>
+        </ul>
+
+# 3. The numbers speak for themselves
+   
+<p>Write a function that prints the numbers, from <code>0</code> to <code>9</code>, followed by a new line.</p>
+
+<ul>
+<li>Prototype: <code>void print_numbers(void);</code></li>
+<li>You can only use <code>_putchar</code> twice in your code</li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 3-main.c 
+#include &quot;main.h&quot;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_numbers();
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+julien@ubuntu:~/0x04$ ./3-print_numbers | cat -e
+0123456789$
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  
+
+<p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>3-print_numbers.c</code></li>
+        </ul>
+      </div>
+
+# 4. I believe in numbers and signs
+   
+<p>Write a function that prints the numbers, from <code>0</code> to <code>9</code>, followed by a new line.</p>
+
+<ul>
+<li>Prototype: <code>void print_most_numbers(void);</code></li>
+<li>Do not print <code>2</code> and <code>4</code></li>
+<li>You can only use <code>_putchar</code> twice in your code</li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 4-main.c
+#include &quot;main.h&quot;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_most_numbers();
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_most_numbers.c -o 4-print_most_numbers
+julien@ubuntu:~/0x04$ ./4-print_most_numbers 
+01356789
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  </div>
+
+<p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>4-print_most_numbers.c</code></li>
+        </ul>
+      </div>
+
+# 5. Numbers constitute the only universal language
+  
+<p>Write a function that prints 10 times the numbers, from <code>0</code> to <code>14</code>, followed by a new line.</p>
+
+<ul>
+<li>Prototype: <code>void more_numbers(void);</code></li>
+<li>You can only use <code>_putchar</code> three times in your code</li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 5-main.c
+#include &quot;main.h&quot;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    more_numbers();
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+julien@ubuntu:~/0x04$ ./5-more_numbers 
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+julien@ubuntu:~/0x04
+</code></pre>
+
+  </div>
+
+ <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>5-more_numbers.c</code></li>
+        </ul>
+      </div>
+
+# 6. The shortest distance between two points is a straight line
+   
+<p>Write a function that draws a straight line in the terminal.</p>
+
+<ul>
+<li>Prototype: <code>void print_line(int n);</code></li>
+<li>You can only use <code>_putchar</code> function to print</li>
+<li>Where <code>n</code> is the number of times the character <code>_</code> should be printed</li>
+<li>The line should end with a <code>\n</code></li>
+<li>If <code>n</code> is <code>0</code> or less, the function should only print <code>\n</code></li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 6-main.c
+#include &quot;main.h&quot;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_line(0);
+    print_line(2);
+    print_line(10);
+    print_line(-4);
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 6-main.c 6-print_line.c -o 6-lines
+julien@ubuntu:~/0x04$ ./6-lines | cat -e
+$
+__$
+__________$
+$
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  </div>
+
+<p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>6-print_line.c</code></li>
+        </ul>
+
+# 7. I feel like I am diagonally parked in a parallel universe
+   
+<p>Write a function that draws a diagonal line on the terminal.</p>
+
+<ul>
+<li>Prototype: <code>void print_diagonal(int n);</code></li>
+<li>You can only use <code>_putchar</code> function to print</li>
+<li>Where <code>n</code> is the number of times the character <code>\</code> should be printed</li>
+<li>The diagonal should end with a <code>\n</code></li>
+<li>If <code>n</code> is <code>0</code> or less, the function should only print a <code>\n</code></li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 7-main.c
+#include &quot;main.h&quot;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_diagonal(0);
+    print_diagonal(2);
+    print_diagonal(10);
+    print_diagonal(-4);
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
+julien@ubuntu:~/0x04$ ./7-diagonals | cat -e
+$
+\$
+ \$
+\$
+ \$
+  \$
+   \$
+    \$
+     \$
+      \$
+       \$
+        \$
+         \$
+$
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  </div>
+
+<p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>7-print_diagonal.c</code></li>
+        </ul>
+
+# 8. You are so much sunshine in every square inch
+   
+<p>Write a function that prints a square, followed by a new line.</p>
+
+<ul>
+<li>Prototype: <code>void print_square(int size);</code></li>
+<li>You can only use <code>_putchar</code> function to print</li>
+<li>Where <code>size</code> is the size of the square</li>
+<li>If <code>size</code> is <code>0</code> or less, the function should print only a new line</li>
+<li>Use the character <code>#</code> to print the square</li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 8-main.c 
+#include &quot;main.h&quot;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_square(2);
+    print_square(10);
+    print_square(0);
+    return (0);
+}
+
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 8-main.c 8-print_square.c -o 8-squares
+julien@ubuntu:~/0x04$ ./8-squares 
+##
+##
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  </div>
+
+  
+<p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>8-print_square.c</code></li>
+        </ul>
+      </div>
+
+# 9. Fizz-Buzz
+    
+<p>The &ldquo;Fizz-Buzz test&rdquo; is an interview question designed to help filter out the 99.5% of programming job candidates who can&rsquo;t seem to program their way out of a wet paper bag.</p>
+
+<p>Write a program that prints the numbers from <code>1</code> to <code>100</code>, followed by a new line. But for multiples of three print <code>Fizz</code> instead of the number and for the multiples of five print <code>Buzz</code>. For numbers which are multiples of both three and five print <code>FizzBuzz</code>.</p>
+
+<ul>
+<li>Each number or word should be separated by a space</li>
+<li>You are allowed to use the standard library</li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 9-fizz_buzz.c -o 9-fizz_buzz
+julien@ubuntu:~/0x04$ ./9-fizz_buzz 
+1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz Fizz 22 23 Fizz Buzz 26 Fizz 28 29 FizzBuzz 31 32 Fizz 34 Buzz Fizz 37 38 Fizz Buzz 41 Fizz 43 44 FizzBuzz 46 47 Fizz 49 Buzz Fizz 52 53 Fizz Buzz 56 Fizz 58 59 FizzBuzz 61 62 Fizz 64 Buzz Fizz 67 68 Fizz Buzz 71 Fizz 73 74 FizzBuzz 76 77 Fizz 79 Buzz Fizz 82 83 Fizz Buzz 86 Fizz 88 89 FizzBuzz 91 92 Fizz 94 Buzz Fizz 97 98 Fizz Buzz
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  </div>
+
+ <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>9-fizz_buzz.c</code></li>
+        </ul>
+
+# 10. Triangles
+  
+<p>Write a function that prints a triangle, followed by a new line.</p>
+
+<ul>
+<li>Prototype: <code>void print_triangle(int size);</code></li>
+<li>You can only use <code>_putchar</code> function to print</li>
+<li>Where <code>size</code> is the size of the triangle</li>
+<li>If <code>size</code> is <code>0</code> or less, the function should print only a new line</li>
+<li>Use the character <code>#</code> to print the triangle</li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 10-main.c 
+#include &quot;main.h&quot;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_triangle(2);
+    print_triangle(10);
+    print_triangle(1);
+    print_triangle(0);
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 10-main.c 10-print_triangle.c -o 10-triangles
+julien@ubuntu:~/0x04$ ./10-triangles 
+ #
+##
+         #
+        ##
+       ###
+      ####
+     #####
+    ######
+   #######
+  ########
+ #########
+##########
+#
+
+julien@ubuntu:~/0x04$ ./10-triangles | tr &#39; &#39; . | cat -e
+.#$
+##$
+.........#$
+........##$
+.......###$
+......####$
+.....#####$
+....######$
+...#######$
+..########$
+.#########$
+##########$
+#$
+$
+julien@ubuntu:~/0x04$
+</code></pre>
+
+  </div>
+
+ <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>10-print_triangle.c</code></li>
+        </ul>
+
+# 11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic
+    
+<p>The prime factors of <code>1231952</code> are <code>2</code>, <code>2</code>, <code>2</code>, <code>2</code>, <code>37</code> and <code>2081</code>. </p>
+
+<p>Write a program that finds and prints the largest prime factor of the number <code>612852475143</code>, followed by a new line.</p>
+
+<ul>
+<li>You are allowed to use the standard library</li>
+<li>Your program will be compiled with this command: <code>gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm</code></li>
+</ul>
+
+  </div>
+
+  
+ <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>100-prime_factor.c</code></li>
+        </ul>
+      </div>
+
+# 12. Numbers have life; they&#39;re not just symbols on paper
+   
+<p>Write a function that prints an integer.</p>
+
+<ul>
+<li>Prototype: <code>void print_number(int n);</code></li>
+<li>You can only use <code>_putchar</code> function to print</li>
+<li>You are not allowed to use <code>long</code></li>
+<li>You are not allowed to use arrays or pointers</li>
+<li>You are not allowed to hard-code special values</li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x04$ cat 101-main.c
+#include &quot;main.h&quot;
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_number(98);
+    _putchar(&#39;\n&#39;);
+    print_number(402);
+    _putchar(&#39;\n&#39;);
+    print_number(1024);
+    _putchar(&#39;\n&#39;);
+    print_number(0);
+    _putchar(&#39;\n&#39;);
+    print_number(-98);
+    _putchar(&#39;\n&#39;);
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 101-main.c 101-print_number.c -o 101-print_numbers
+julien@ubuntu:~/0x04$ ./101-print_numbers 
+98
+402
+1024
+0
+-98
+julien@ubuntu:~/0x04$ 
+</code></pre>
+
+  </div>
+
+ <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>alx-low_level_programming</code></li>
+            <li>Directory: <code>0x04-more_functions_nested_loops</code></li>
+            <li>File: <code>101-print_number.c</code></li>
+        </ul>
