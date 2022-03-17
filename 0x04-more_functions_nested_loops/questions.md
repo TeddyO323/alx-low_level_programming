@@ -17,4 +17,4 @@
 <div class="field-content">&nbsp;</div>
 </div>
 
-[Click me](http://www.google.com){: .btn}
+{% include button.html url="http://www.google.com" %}
