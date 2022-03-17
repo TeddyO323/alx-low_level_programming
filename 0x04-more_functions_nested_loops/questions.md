@@ -28,23 +28,22 @@ for (i = 48; i &lt; 58; i++)
 </code></pre>
 
 
-    <!-- Quiz question Answers -->
 <ul class="quiz_question_answers" data-question-id="398">
-                <li class="">
+<li class="">
   <input type="checkbox" name="quiz-answer-1505859848037" id="quiz-answer-1505859848037" data-quiz-question-id="398" data-quiz-answer-id="1505859848037" disabled="disabled" />
   <label for="quiz-answer-1505859848037">
     <p>48495051525354555657</p>
 
 </label></li>
 
-                <li class="">
+  <li class="">
 <input type="checkbox" name="quiz-answer-1505859859337" id="quiz-answer-1505859859337" data-quiz-question-id="398" data-quiz-answer-id="1505859859337" disabled="disabled" checked="checked" />
   <label for="quiz-answer-1505859859337">
     <p>0123456789</p>
 
 </label></li>
 
-                <li class="">
+   <li class="">
 <input type="checkbox" name="quiz-answer-1505859862214" id="quiz-answer-1505859862214" data-quiz-question-id="398" data-quiz-answer-id="1505859862214" disabled="disabled" />
   <label for="quiz-answer-1505859862214">
     <p>School</p>
@@ -58,7 +57,7 @@ for (i = 48; i &lt; 58; i++)
 </div>
 
           </div>
-          <div class="quiz_question_item_container" data-role="quiz_question399" data-position="2">
+ <div class="quiz_question_item_container" data-role="quiz_question399" data-position="2">
             <div class=" clearfix" id="quiz_question-399">
 
 <h4 class="quiz_question">
