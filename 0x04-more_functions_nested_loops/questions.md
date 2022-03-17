@@ -17,4 +17,4 @@
 <div class="field-content">&nbsp;</div>
 </div>
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+[Click me](http://www.google.com){: .btn}
