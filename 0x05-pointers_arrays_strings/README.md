@@ -1,4 +1,4 @@
- <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/216/IMG_2410.JPG" /></p>
+ <p><img src="https://github.com/TeddyO323/photos/blob/main/IMG_2410.jpg?raw=true" /></p>
 
 
 # Resources
