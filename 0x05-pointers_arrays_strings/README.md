@@ -1,4 +1,7 @@
-<h2>Resources</h2>
+ <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/216/IMG_2410.JPG" /></p>
+
+
+# Resources
 
 <p><strong>Read or watch</strong>:</p>
 
