@@ -434,7 +434,7 @@ julien@ubuntu:~/0x06$
 
 # 7. Mozart composed his music not for the elite, but for everybody
    
-<p>Write a function that encodes a string into <a href="/rltoken/9v9KfpvWnL0GoMu5mozbug" title="1337" target="_blank">1337</a>.</p>
+<p>Write a function that encodes a string into <a href="https://en.wikipedia.org/wiki/Leet" title="1337" target="_blank">1337</a>.</p>
 
 <ul>
 <li>Letters <code>a</code> and <code>A</code> should be replaced by <code>4</code><br></li>
@@ -487,7 +487,7 @@ julien@ubuntu:~/0x06$
 
 # 8. rot13
    
-<p>Write a function that encodes a string using <a href="/rltoken/YRxmNA7BnP6yZhl09TKX3A" title="rot13" target="_blank">rot13</a>.</p>
+<p>Write a function that encodes a string using <a href="https://en.wikipedia.org/wiki/ROT13" title="rot13" target="_blank">rot13</a>.</p>
 
 <ul>
 <li>Prototype: <code>char *rot13(char *);</code><br></li>
