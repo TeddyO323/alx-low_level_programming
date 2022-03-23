@@ -1,5 +1,5 @@
 <div class="well clean" id="project-description">
-<p><img src="/images/contents/low_level_programming/projects/happy-clapping.gif" alt="" style="" /></p>
+<p><img src="https://github.com/TeddyO323/photos/blob/main/happy-clapping.gif?raw=true" alt="" style="" /></p>
 
 <h2>Requirements</h2>
 
