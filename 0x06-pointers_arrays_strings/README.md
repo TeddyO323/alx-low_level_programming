@@ -606,7 +606,7 @@ julien@ubuntu:~/0x06$
         </ul>
 
 # 10. A dream doesn&#39;t become reality through magic; it takes sweat, determination and hard work
- <p><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/21b4fc5c1b5df84e6ae4fe8807aa359d929e748a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220323T215253Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=96c0e96fd839c7983f4c92d04616f91f625484bdebcafa1023025958c99c1039" alt="" style="" />
+ <p><img src="https://github.com/TeddyO323/photos/blob/main/10.gif?raw=true" alt="" style="" />
 <br /><br />
 Add one line to <a href="https://github.com/holbertonschool/make_magic_happen/blob/master/magic.c" title="this code" target="_blank">this code</a>, so that the program prints <code>a[2] = 98</code>, followed by a new line.</p>
 
