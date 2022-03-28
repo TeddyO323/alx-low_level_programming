@@ -1,3 +1,22 @@
+
+# Concepts
+
+<div class="panel panel-default">
+    <div class="panel-body">
+      <p>
+ <em>For this project, students are expected to look at this concept:</em>
+      </p>
+
+      <ul>
+          <li>
+            <a href="/concepts/60">Pointers and arrays</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+
+
+
 <div class="well clean" id="project-description">
   <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/218/58fe6b229144b7fe5ebe88afe9ff5cabe2dd0863e1e79b2d02b4103c30b465dd.jpg" alt="" style="" /></p>
 
