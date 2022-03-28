@@ -9,7 +9,7 @@
 
  <ul>
           <li>
-            <a href="/concepts/60">Pointers and arrays</a>
+            <a href="https://github.com/TeddyO323/Concepts/blob/main/Concepts-Pointers.md">Pointers and arrays</a>
           </li>
       </ul>
     </div>
