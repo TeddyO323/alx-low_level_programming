@@ -7,7 +7,7 @@
  <em>For this project, students are expected to look at this concept:</em>
       </p>
 
-      <ul>
+ <ul>
           <li>
             <a href="/concepts/60">Pointers and arrays</a>
           </li>
