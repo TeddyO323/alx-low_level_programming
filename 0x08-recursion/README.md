@@ -1,7 +1,7 @@
 # RECURSION
 
 <div class="well clean" id="project-description">
-<p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/219/a88.jpg" /></p>
+<p><img src="https://github.com/TeddyO323/photos/blob/main/a88.jpg?raw=true" /></p>
 
 # Resources
 
