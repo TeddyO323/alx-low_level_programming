@@ -12,9 +12,6 @@
       </ul>
     </div>
   </div>
-
-
-<div class="well clean" id="project-description">
 # Resources
 
 <p><strong>Read or watch</strong>:</p>
