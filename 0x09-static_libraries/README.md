@@ -7,7 +7,7 @@
 <em>For this project, students are expected to look at this concept:</em>
       
 <li>
-<a href="https://github.com/TeddyO323/Concepts/blob/main/Concept-C-static_libraries.md target="_blank">C static libraries</a>
+<a href="https://github.com/TeddyO323/Concepts/blob/main/Concept-C-static_libraries.md " target="_blank>C static libraries</a>
           </li>
       </ul>
     </div>
