@@ -12,7 +12,9 @@
       </ul>
     </div>
   </div>
-# Resources
+
+
+# R
 
 <p><strong>Read or watch</strong>:</p>
 
