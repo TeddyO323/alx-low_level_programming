@@ -1,4 +1,4 @@
-# 0x0A. C - argc, argv
+# C - argc, argv
 
 ---
 
@@ -229,12 +229,7 @@ julien@ubuntu:~/0x0A. argc, argv$
 
   </div>
 
-  <div class="list-group">
-    <!-- Task URLs -->
-
-    <!-- Github information -->
-      <div class="list-group-item">
-        <p><strong>Repo:</strong></p>
+<p><strong>Repo:</strong></p>
         <ul>
           <li>GitHub repository: <code>alx-low_level_programming</code></li>
             <li>Directory: <code>0x0A-argc_argv</code></li>
