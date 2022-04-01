@@ -14,7 +14,7 @@
   </div>
 
 
-# R
+# Resources
 
 <p><strong>Read or watch</strong>:</p>
 
