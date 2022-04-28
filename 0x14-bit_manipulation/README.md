@@ -1,8 +1,6 @@
 # Bit manipulation
 ---
-
-      <div class="well clean" id="project-description">
-  <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/232/bitwise.PNG" /></p>
+<p><img src="https://github.com/TeddyO323/photos/blob/main/bit_manipulation.png?raw=true" /></p>
 
 <h2>Resources</h2>
 
