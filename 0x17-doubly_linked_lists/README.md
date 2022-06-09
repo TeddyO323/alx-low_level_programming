@@ -1,6 +1,14 @@
 # 0x17. C - Doubly linked lists 
 ◀ ▶
 
+# Resources
+
+<p><strong>Read or watch</strong>:</p>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=k0pjD12bzP0" title="What is a Doubly Linked List" target="_blank">What is a Doubly Linked List</a> </li>
+</ul>
+
 
 ---
 
