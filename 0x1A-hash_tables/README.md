@@ -31,8 +31,8 @@ SHE: Sorry I have Python! 😕<br>
 <li>What are the advantages and drawbacks of using hash tables</li>
 <li>What are the most common use cases of hash tables</li>
 </ul>
----
----
+ ---
+ ---
 
 
 
