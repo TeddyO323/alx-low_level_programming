@@ -22,7 +22,7 @@
 </ul>
 ---
 ---
-<strong>🕊🕊🕊Joke of The day🕊🕊🕊</strong>
+<pre><strong>🕊🕊🕊Joke of The day🕊🕊🕊</strong>
 
 HE: You are the ";" to my code 😍<br>
 SHE: Sorry I have Python! 😕<br>
@@ -30,7 +30,7 @@ SHE: Sorry I have Python! 😕<br>
 <details>
     <summary>click here</summary>
     <p><img src="./55ac32e086956d9342f43be2a6ab17a3.jpg" alt="" style="" /><br /></p>
-</details>
+</details></pre>
 
 
 
