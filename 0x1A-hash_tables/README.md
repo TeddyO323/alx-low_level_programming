@@ -29,7 +29,7 @@ SHE: Sorry I have Python! 😕<br>
 
 <details>
     <summary>click here</summary>
-    <p><img src="./55ac32e086956d9342f43be2a6ab17a3.jpg" alt="" style="" /><br /></p>
+    <p><img src="./joke.jpg" alt="" style="" /><br /></p>
 </details></pre>
 
 
