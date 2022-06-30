@@ -28,7 +28,7 @@ HE: You are the ";" to my code 😍<br>
 SHE: Sorry I have Python! 😕<br>
 
 <details>
-    <summary>click here</summary>
+    <summary>[click here](#)</summary>
     <p><img src="./joke.jpg" alt="" style="" /><br /></p>
 </details></pre>
 
