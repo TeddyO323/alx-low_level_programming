@@ -1,5 +1,16 @@
 # 0x1A. C - Hash tables
 
+<pre><strong>🕊🕊🕊Joke of The day🕊🕊🕊</strong>
+
+HE: You are the ";" to my code 😍<br>
+SHE: Sorry I have Python! 😕<br>
+
+<details>
+    <summary>[click here]</summary>
+    <p><img src="./joke.jpg" alt="" style="" /><br /></p>
+</details></pre>
+
+
 # Resources
 
 <p><strong>Read or watch</strong>:</p>
@@ -22,15 +33,6 @@
 </ul>
 ---
 ---
-<pre><strong>🕊🕊🕊Joke of The day🕊🕊🕊</strong>
-
-HE: You are the ";" to my code 😍<br>
-SHE: Sorry I have Python! 😕<br>
-
-<details>
-    <summary>[click here](#)</summary>
-    <p><img src="./joke.jpg" alt="" style="" /><br /></p>
-</details></pre>
 
 
 
