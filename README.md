@@ -1,15 +1,9 @@
-# WE LOVE C
-
-<p><img src="https://github.com/TeddyO323/photos/blob/main/c.gif"  width="750 px"></p> 
+(Alx Africa)[https://www.alxafrica.com/]
 
 # Project Name
-**Low-level programming & Algorithm**
+**Low-level programming & Algorithm - Hatching out**
 
-## Technologies
-* Scripts written in Bash 5.0.17(1).
-* C files are compiled using `gcc 9.4.0`.
-* C files are written according to the `C99` standard.
-* Tested on Ubuntu 20.04 LTS.
+<p><img src="https://github.com/TeddyO323/photos/blob/main/c.gif"  width="750 px"></p> 
 
 ## Projects
 All of the following folders are projects done during the studies:
