@@ -8,36 +8,67 @@
       </p>
 
       <ul>
-          <li>
-            <a href="/concepts/120">Data Structures</a>
-          </li>
+<li>
+
+[Data Structures](./concept.md) </li>
       </ul>
     </div>
   </div>
 
 
-      <div class="panel panel-default" id="project-description">
-  <div class="panel-body">
-    <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/229/giphy-3.gif" alt="" style="" /></p>
+<p><img src="./giphy-3.gif" alt="" style="" /></p>
 
 <h2>Resources</h2>
 
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="/rltoken/joxg32-tt4lUh8Afgst8tA" title="Linked Lists" target="_blank">Linked Lists</a> </li>
-<li><a href="/rltoken/USaZbNdfcuIFII-K2YPsKQ" title="Google" target="_blank">Google</a> </li>
-<li><a href="/rltoken/epKUCIcoA6XaN1T3Vtr_9w" title="Youtube" target="_blank">Youtube</a> </li>
+<li><a href="https://www.youtube.com/watch?v=udapt4FGY20&t=130s" title="Linked Lists" target="_blank">Linked Lists</a> </li>
+<li><a href="https://www.google.com/#q=linked+lists" title="Google" target="_blank">Google</a> </li>
+<li><a href="https://www.youtube.com/results?search_query=linked+lists" title="Youtube" target="_blank">Youtube</a> </li>
 </ul>
 
 <h2>Learning Objectives</h2>
-
-<p>At the end of this project, you are expected to be able to <a href="/rltoken/xtUoOGrH_fQu_r19q1Tivw" title="explain to anyone" target="_blank">explain to anyone</a>, <strong>without the help of Google</strong>:</p>
-
-<h3>General</h3>
 
 <ul>
 <li>When and why using linked lists vs arrays</li>
 <li>How to build and use linked lists</li>
 </ul>
+
+<h2>More Info</h2>
+
+<p>Please use this data structure for this project:</p>
+
+<pre><code>/**
+ * struct list_s - singly linked list
+ * @str: string - (malloc&#39;ed string)
+ * @len: length of the string
+ * @next: points to the next node
+ *
+ * Description: singly linked list node structure
+ */
+typedef struct list_s
+{
+    char *str;
+    unsigned int len;
+    struct list_s *next;
+} list_t;
+</code></pre>
+
+  </div>
+</div>
+
+---
+
+<details>
+
+<summary>Show/Hide Quiz</summary>
+
+### 1.) What’s a node? (select all possible answers)
+
+- [ ] It’s a server
+- [x] It’s a structure with a pointer to the next node and value information
+It’s a cell in an array
+It’s an integer
+It’s a space allocated in memory
 

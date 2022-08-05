@@ -11,15 +11,15 @@ When you begin learning basic data structures such as arrays and linked lists, y
 
 <p>Basics (Read deep into either for explanations of common data structures): </p>
 
-<p><a href="/rltoken/ZjxizWAKkkJzpHs1mmZZdw" title="Tutorials Point" target="_blank">Tutorials Point</a></p>
+<p><a href="https://www.tutorialspoint.com/data_structures_algorithms/data_structures_basics.htm" title="Tutorials Point" target="_blank">Tutorials Point</a></p>
 
-<p><a href="/rltoken/j6OHt4I4GW0dOWihIwQoWA" title="Geeks for Geeks" target="_blank">Geeks for Geeks</a></p>
+<p><a href="https://www.geeksforgeeks.org/data-structures/" title="Geeks for Geeks" target="_blank">Geeks for Geeks</a></p>
 
 <p>How to Select the Appropriate Data Structure:</p>
 
-<p><a href="/rltoken/Zf-TH854gUT9X44DXf5VJw" title="Career Drill" target="_blank">Career Drill</a></p>
+<p><a href="https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/" title="Career Drill" target="_blank">Career Drill</a></p>
 
 </div>
 
 
-      </article>
+</article>
