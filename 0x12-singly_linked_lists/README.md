@@ -7,7 +7,7 @@
         <em>For this project, we expect you to look at this concept:</em>
       </p>
 
-      <ul>
+<ul>
 <li>
 
 [Data Structures](./concept.md) </li>
@@ -64,11 +64,13 @@ typedef struct list_s
 
 <summary>Show/Hide Quiz</summary>
 
-### 1.) What’s a node? (select all possible answers)
+### 0.) What’s a node? (select all possible answers)
 
 - [ ] It’s a server
 - [x] It’s a structure with a pointer to the next node and value information
-It’s a cell in an array
-It’s an integer
-It’s a space allocated in memory
+- [ ] It’s a cell in an array
+- [ ] It’s an integer
+- [x] It’s a space allocated in memory
+    
+
 
