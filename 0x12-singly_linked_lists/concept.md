@@ -1,0 +1,25 @@
+# Data Structures
+
+
+<div class="gap formatted-content">
+<h3>What is a data structure?</h3>
+
+<p>Data structures, as the term implies, are a way of structuring data in order to efficiently store, find, use, and create data, depending on the task at hand. If data is a plate of food, data structures are your utensils (algorithms would be how to effectively use those utensils in this analogy). Just as you will likely select a spoon to eat a bowl of soup rather than a knife, you will learn over time to select and properly use data structures which fit the nature of the data you are working with. 
+When you begin learning basic data structures such as arrays and linked lists, you will start to conceptualize how data is stored, searched, and edited, and what these operations will contribute to the space/time complexity of your program at runtime (this will make more sense once you start to learn about Big O notation). As you continue to learn more complex data structures, you may notice that you need to think more abstractly and deliberately in order to properly implement them. But with patience and practice you will begin to see patterns emerge that will allow you to intuitively see which situation calls for which data structure, just as you know to pick up a spoon when you see a bowl of soup.</p>
+
+<h3>References:</h3>
+
+<p>Basics (Read deep into either for explanations of common data structures): </p>
+
+<p><a href="/rltoken/ZjxizWAKkkJzpHs1mmZZdw" title="Tutorials Point" target="_blank">Tutorials Point</a></p>
+
+<p><a href="/rltoken/j6OHt4I4GW0dOWihIwQoWA" title="Geeks for Geeks" target="_blank">Geeks for Geeks</a></p>
+
+<p>How to Select the Appropriate Data Structure:</p>
+
+<p><a href="/rltoken/Zf-TH854gUT9X44DXf5VJw" title="Career Drill" target="_blank">Career Drill</a></p>
+
+</div>
+
+
+      </article>
