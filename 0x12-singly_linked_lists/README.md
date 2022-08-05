@@ -520,7 +520,7 @@ julien@ubuntu:~/0x12. Singly linked lists$
 
 
   <!-- Task Body -->
-    <p><img src="./de3291ccf5b255fff6ce37bfde7a13f481e7ed0c.jpg" alt="" style="" /></p>
+  <p><img src="./de3291ccf5b255fff6ce37bfde7a13f481e7ed0c.jpg" alt="" style="" /></p>
 
 <p>Write a function that prints <code>You&#39;re beat! and yet, you must allow,\nI bore my house upon my back!\n</code> before the <code>main</code> function is executed.</p>
 
